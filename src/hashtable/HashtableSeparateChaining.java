@@ -169,7 +169,8 @@ public class HashTableSeparateChaining<K, V> implements Iterable<K> {
   }
 
   // Resizes the internal table holding buckets of entries
-  private void resizeTable() {
+  @SuppressWarnings("unchecked")
+private void resizeTable() {
 
     capacity *= 2;
     threshold = (int) (capacity * maxLoadFactor);
