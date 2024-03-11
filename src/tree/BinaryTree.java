@@ -29,6 +29,12 @@ public class BinaryTree {
         return root;
     }
 //sabi daw that iteratively is faster than doing the order recursively
+//did not go deep with order traversal interatively because it is kinda hard to explain by the author
+
+
+//GREAT FOR INTERVIEW QUESTIONS LIKE "HOW DO YOU MAKE INDORDER TRAVERSAL ITERATIVELY"
+
+
 //inorder traversal
 // if encounters a null value then it will recurse back 
     public void inOrder (){
@@ -45,8 +51,8 @@ public class BinaryTree {
             System.out.print(root.data + " ");
             inOrderRec(root.right);
         }
-
     }
+    //preorder method
     public void preOrder (){
         preOrderRec(root);
 
@@ -58,6 +64,7 @@ public class BinaryTree {
             preOrderRec(root.right);
         }
     }
+    
     public void postOrder (){
         postOrderRec(root);
 
