@@ -1,9 +1,9 @@
-
+//node to create the tree
 class Node{
     int data;
     Node left;
     Node right;
-
+//constructor
 public Node(int data){
     this.data = data;
     }
