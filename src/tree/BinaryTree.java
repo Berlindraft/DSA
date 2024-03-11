@@ -64,7 +64,7 @@ public class BinaryTree {
             preOrderRec(root.right);
         }
     }
-    
+    //postorder method
     public void postOrder (){
         postOrderRec(root);
 
