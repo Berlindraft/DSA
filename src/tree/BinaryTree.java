@@ -28,10 +28,12 @@ public class BinaryTree {
         }
         return root;
     }
+//sabi daw that iteratively is faster than doing the order recursively
 //inorder traversal
 // if encounters a null value then it will recurse back 
     public void inOrder (){
         inOrderRec(root);
+
 
     }
     //for observation of the data
