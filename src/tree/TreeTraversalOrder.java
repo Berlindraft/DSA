@@ -4,3 +4,4 @@ public enum TreeTraversalOrder {
     POST_ORDER,
     LEVEL_ORDER
   }
+  //this is used by the iterator to traverse throught the tree

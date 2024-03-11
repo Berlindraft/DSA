@@ -12,6 +12,7 @@
 public class BinarySearchTree<T extends Comparable<T>> {
 
   // Tracks the number of nodes in this BST
+ 
   private int nodeCount = 0;
 
   // This BST is a rooted tree so we maintain a handle on the root node
@@ -218,8 +219,9 @@ public class BinarySearchTree<T extends Comparable<T>> {
         return null;
     }
   }
-
+  '''wako kasabot'''
   // Returns as iterator to traverse the tree in pre order
+  //search unya about sa iterator lib
   private java.util.Iterator<T> preOrderTraversal() {
 
     final int expectedNodeCount = nodeCount;
@@ -327,6 +329,7 @@ public class BinarySearchTree<T extends Comparable<T>> {
       }
     };
   }
+'''wala pako ka review sa lever order traversal'''
 
   // Returns as iterator to traverse the tree in level order
   private java.util.Iterator<T> levelOrderTraversal() {
