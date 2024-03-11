@@ -8,12 +8,13 @@ public Node(int data){
     this.data = data;
     }
 }
+
 public class BinaryTree {
     Node root;
 	public void insert(int data) {
         root = insertRec(root, data);
     }
-
+//basically just uses recursive to insert the data in the tree
     public Node insertRec(Node root, int data){
         if(root==null){
             root = new Node(data);
