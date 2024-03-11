@@ -15,6 +15,7 @@ public class BinaryTree {
         root = insertRec(root, data);
     }
 //basically just uses recursive to insert the data in the tree
+//the insert method's recursive function
     public Node insertRec(Node root, int data){
         if(root==null){
             root = new Node(data);
@@ -27,12 +28,16 @@ public class BinaryTree {
         }
         return root;
     }
-
+//inorder traversal
+// if encounters a null value then it will recurse back 
     public void inOrder (){
         inOrderRec(root);
 
     }
+    //for observation of the data
+    //i added a recurse for every recurse that happend
     public void inOrderRec(Node root){
+        System.out.println("recurse");
         if(root != null){
             inOrderRec(root.left);
             System.out.print(root.data + " ");
