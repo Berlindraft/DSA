@@ -22,17 +22,17 @@ public class AVLtree<T extends Comparable<T>> implements Iterable<T> {
       this.value = value;
     }
 
-    @Override
+    
     public PrintableNode getLeft() {
       return left;
     }
 
-    @Override
+   
     public PrintableNode getRight() {
       return right;
     }
 
-    @Override
+
     public String getText() {
       return value.toString();
     }
