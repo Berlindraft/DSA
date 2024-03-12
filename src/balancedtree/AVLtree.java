@@ -1,19 +1,8 @@
 package balancedtree;
 
-// public class AVLtree {
-    
-// }
-/**
- * This file contains an implementation of an AVL tree. An AVL tree is a special type of binary tree
- * which self balances itself to keep operations logarithmic.
- *
- * @author William Fiset, william.alexandre.fiset@gmail.com
- */
-
-
 import com.williamfiset.algorithms.datastructures.utils.TreePrinter;
 import com.williamfiset.algorithms.datastructures.utils.TreePrinter.PrintableNode;
-
+// imports
 public class AVLtree<T extends Comparable<T>> implements Iterable<T> {
 
   public class Node implements PrintableNode {
