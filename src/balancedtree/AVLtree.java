@@ -1,7 +1,6 @@
 package balancedtree;
 
-import com.williamfiset.algorithms.datastructures.utils.TreePrinter;
-import com.williamfiset.algorithms.datastructures.utils.TreePrinter.PrintableNode;
+
 // imports
 public class AVLtree<T extends Comparable<T>> implements Iterable<T> {
 

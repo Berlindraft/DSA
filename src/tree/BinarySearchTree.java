@@ -20,10 +20,12 @@ public class BinarySearchTree<T extends Comparable<T>> {
 
   // Internal node containing node references
   // and the actual node data
+  //NODE class
   private class Node {
     T data;
     Node left, right;
-
+    
+    //NODE constructor
     public Node(Node left, Node right, T elem) {
       this.data = elem;
       this.left = left;
@@ -219,7 +221,7 @@ public class BinarySearchTree<T extends Comparable<T>> {
         return null;
     }
   }
-  '''wako kasabot'''
+
   // Returns as iterator to traverse the tree in pre order
   //search unya about sa iterator lib
   private java.util.Iterator<T> preOrderTraversal() {
@@ -329,7 +331,7 @@ public class BinarySearchTree<T extends Comparable<T>> {
       }
     };
   }
-'''wala pako ka review sa lever order traversal'''
+
 
   // Returns as iterator to traverse the tree in level order
   private java.util.Iterator<T> levelOrderTraversal() {
