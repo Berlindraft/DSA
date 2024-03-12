@@ -163,6 +163,7 @@ public class BinarySearchTree<T extends Comparable<T>> {
   }
 
   // Helper method to find the rightmost node (which has the largest value)
+  @SuppressWarnings("unused")
   private Node findMax(Node node) {
     while (node.right != null) node = node.right;
     return node;

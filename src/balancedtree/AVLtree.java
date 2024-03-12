@@ -335,10 +335,10 @@ public class AVLtree<T extends Comparable<T>> implements Iterable<T> {
     };
   }
 
-  @Override
-  public String toString() {
-    return TreePrinter.getTreeDisplay(root);
-  }
+  // @Override
+  // public String toString() {
+  //   return TreePrinter.getTreeDisplay(root);
+  // }
 
   // Make sure all left child nodes are smaller in value than their parent and
   // make sure all right child nodes are greater in value than their parent.
