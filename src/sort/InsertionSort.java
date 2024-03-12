@@ -1,3 +1,4 @@
+package sort;
 
 public class InsertionSort {
 // this sorting method use shifting of the values 

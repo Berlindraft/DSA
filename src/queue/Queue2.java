@@ -1,7 +1,8 @@
+package queue;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class Queue {
+public class Queue2 {
 
 	public static void main(String[] args) {
 		// FIFO - first in first out
