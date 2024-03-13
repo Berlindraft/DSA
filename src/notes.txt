@@ -1,0 +1,2 @@
+LOGS
+3/13/24 - learned about generics and the different java collections framework
