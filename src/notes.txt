@@ -1,3 +1,4 @@
 LOGS 
-3/12/24 - did some reading about binary search tree
+3/12/24 - did some reading about binary search tree// particularly about avl trees and redblack trees
+        -downloaded some books related to data structures
 3/13/24 - learned about generics and the different java collections framework
