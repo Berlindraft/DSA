@@ -1,4 +1,7 @@
 LOGS 
+3/09/24 - focused on priority queues and heaps 
+3/10/24 - i looked through some lapses in my knowledge about java and its features 
+        - annotations, classes declarations, and constructors, etc.
 3/11/24 - research and refined my knowledge about binary trees 
         - inserting deleting and traversing nodes//  also looked through some source code
 3/12/24 - did some reading about binary search tree// particularly about avl trees and redblack trees
