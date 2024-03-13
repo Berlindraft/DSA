@@ -1,5 +1,6 @@
 LOGS 
-3/09/24 - focused on priority queues and heaps 
+3/09/24 - focused on getting idea of common data structures 
+        -learned about git and its features // tried to commit changes daily
 3/10/24 - i looked through some lapses in my knowledge about java and its features 
         - annotations, classes declarations, and constructors, etc.
 3/11/24 - research and refined my knowledge about binary trees 
