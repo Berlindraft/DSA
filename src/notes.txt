@@ -1,4 +1,4 @@
-LOGS 
+SUMMARY LOGS
 3/09/24 - focused on getting idea of common data structures 
         -learned about git and its features // tried to commit changes daily
 3/10/24 - i looked through some lapses in my knowledge about java and its features 
@@ -8,3 +8,5 @@ LOGS
 3/12/24 - did some reading about binary search tree// particularly about avl trees and redblack trees
         -downloaded some books related to data structures
 3/13/24 - learned about generics and the different java collections framework
+        -rest day
+3/14/24 - study javaswing for system project
