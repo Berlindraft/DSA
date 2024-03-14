@@ -10,3 +10,4 @@ SUMMARY LOGS
 3/13/24 - learned about generics and the different java collections framework
         -rest day
 3/14/24 - study javaswing for system project
+        - different ways to create objects

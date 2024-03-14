@@ -208,7 +208,7 @@ public class BinarySearchTree<T extends Comparable<T>> {
   // This method returns an iterator for a given TreeTraversalOrder.
   // The ways in which you can traverse the tree are in four different ways:
   // preorder, inorder, postorder and levelorder.
-  public java.util.Iterator<T> traverse(TreeTraversalOrder order) {
+  public <TreeTraversalOrder> java.util.Iterator<T> traverse(TreeTraversalOrder order) {
     switch (order) {
       case PRE_ORDER:
         return preOrderTraversal();

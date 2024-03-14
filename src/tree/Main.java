@@ -1,8 +1,10 @@
+import com.sun.source.tree.BinaryTree;
 
 public class Main {
     public static void main(String[] args){
 
-        BinaryTree tree = new BinaryTree();
+        BinaryTree tree;
+        tree = new BinaryTree();
         tree.insert(8);
         tree.insert(7);
         tree.insert(12);
