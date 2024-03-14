@@ -12,3 +12,5 @@ SUMMARY LOGS
 3/14/24 - study javaswing for system project
         - different ways to create objects
         - collection framework 
+        -deleted the binary tree implementation because of errors//might need to review again
+        
