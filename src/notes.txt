@@ -14,4 +14,4 @@ SUMMARY LOGS
         - collection framework 
         -deleted the binary tree implementation because of errors//might need to review again
 3/15/24 - studied instantiating classes/object creation
-        - generics and nested generics// extending generic classes
+        - generics and nested generics// extending generic classes // generic methods
