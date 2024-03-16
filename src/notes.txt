@@ -12,6 +12,8 @@ SUMMARY LOGS
 3/14/24 - study javaswing for system project
         - different ways to create objects
         - collection framework 
-        -deleted the binary tree implementation because of errors//might need to review again
+        - deleted the binary tree implementation because of errors//might need to review again
 3/15/24 - studied instantiating classes/object creation
         - generics and nested generics// extending generic classes // generic methods
+3/16/24 - studied object creation and swe requirement
+        - 
