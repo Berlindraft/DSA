@@ -20,4 +20,4 @@ SUMMARY LOGS
         - learning about databases JDBC
 3/17/24 - enhanced knowledge about databases, constructed plan flow to learn databases
         - brief introduction aobut JDBC (java database connectivity)
-        
+        - basics of sql// learning mysql for database
