@@ -22,3 +22,4 @@ SUMMARY LOGS
         - brief introduction aobut JDBC (java database connectivity)
         - basics of sql// learning mysql for database // basic syntax of sql
 3/18/24 - switching to learning to mongoDB 
+        -downloaded some learning materials // working on renewing my repo to show updates for other folders
