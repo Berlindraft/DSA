@@ -25,4 +25,4 @@ SUMMARY LOGS
         -downloaded some learning materials // working on renewing my repo to show updates for other folders
         - learning a short course on mongodb // prolly study later
 3/19/24 - did some git related stuff
-
+        - hooking up git to phone but failed 
