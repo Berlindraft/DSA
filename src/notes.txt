@@ -27,3 +27,4 @@ SUMMARY LOGS
 3/19/24 - did some git related stuff
         - hooking up git to phone but failed 
         - rest day / clearing space for pc for db
+        -learning cmd commands// reviewing git commands
