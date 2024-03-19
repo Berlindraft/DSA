@@ -26,3 +26,4 @@ SUMMARY LOGS
         - learning a short course on mongodb // prolly study later
 3/19/24 - did some git related stuff
         - hooking up git to phone but failed 
+        - rest day / clearing space for pc for db
