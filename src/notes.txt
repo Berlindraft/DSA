@@ -30,3 +30,4 @@ SUMMARY LOGS
         -learning cmd commands// reviewing git commands
 3/20/24 - no pc today // have to commit this way
 -studying CRUD // cmd commands continuation 
+- made progress in school system
