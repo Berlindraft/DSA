@@ -29,4 +29,4 @@ SUMMARY LOGS
         - rest day / clearing space for pc for db
         -learning cmd commands// reviewing git commands
 3/20/24 - no pc today // have to commit this way
-
+-studying CRUD // cmd commands continuation 
