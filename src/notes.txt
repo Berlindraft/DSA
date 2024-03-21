@@ -22,14 +22,14 @@ SUMMARY LOGS
         - brief introduction aobut JDBC (java database connectivity)
         - basics of sql// learning mysql for database // basic syntax of sql
 3/18/24 - switching to learning to mongoDB 
-        -downloaded some learning materials // working on renewing my repo to show updates for other folders
+        - downloaded some learning materials // working on renewing my repo to show updates for other folders
         - learning a short course on mongodb // prolly study later
 3/19/24 - did some git related stuff
         - hooking up git to phone but failed 
         - rest day / clearing space for pc for db
-        -learning cmd commands// reviewing git commands
+        - learning cmd commands// reviewing git commands
 3/20/24 - no pc today // have to commit this way
-        -studying CRUD // cmd commands continuation 
+        - studying CRUD // cmd commands continuation 
         - made progress in school system
 3/21/24 - busy with software system for school
-        -worked on a programming assignment for school
+        - worked on a programming assignment for school
