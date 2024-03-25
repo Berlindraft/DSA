@@ -42,5 +42,6 @@ SUMMARY LOGS
 3/24/24 - studied for exam and prepared notes for prog
         - reviewed about using git and made repo for folders
         - experience in using git and github
+        - made a game in python // simple game
 3/25/24 - busy day with activities and chores // got vaccinated and also the dogs
         - read and researched about java systems
