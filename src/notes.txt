@@ -40,3 +40,4 @@ SUMMARY LOGS
 3/23/24 - typing test practice 
         - random reading sesssion // chores // sickday
 3/24/24 - studied for exam and prepared notes for prog
+        - reviewed about using git and made repo for folders
